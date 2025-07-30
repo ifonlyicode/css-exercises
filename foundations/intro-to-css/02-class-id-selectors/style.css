@@ -1,0 +1,29 @@
+/*All p are odd numbers
+Second element is div
+Third element is p -
+Fourth element is div */
+
+
+.lt-bk {
+    background: rgb(255, 150, 150);
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+
+#big-blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+.grn-bk {
+      background: rgb(144, 238, 144);
+     
+}
+
