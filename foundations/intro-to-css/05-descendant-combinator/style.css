@@ -1,0 +1,9 @@
+/*Only the p elements that are descendants of the div element should 
+have - yellow background, red text, 20px font-size and align text center */
+
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
